@@ -1,4 +1,7 @@
-#Sun Apr 08 22:47:32 IST 2018
-base.0=C\:\\Users\\Aman\\Quiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\Aman\\Quiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Mon Apr 30 22:58:21 IST 2018
+base.0=C\:\\Users\\Aman\\Quiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_39c55b3d23ab9a74485ae61cc2d0720a5d65dd15
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Aman\\Quiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c7db00804e589d98cbeeb6acf3642634904021d9\\classes.dex
+base.1=C\:\\Users\\Aman\\Quiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c7db00804e589d98cbeeb6acf3642634904021d9
+file.0=C\:\\Users\\Aman\\Quiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_39c55b3d23ab9a74485ae61cc2d0720a5d65dd15\\classes.dex
